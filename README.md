@@ -9,6 +9,13 @@ Site reliability engineer
 
 <br/> 
 
+
+<p align="center">
+  <img src=https://github-readme-stats.vercel.app/api?username=yasharne&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"]/>
+</p>
+
+<br/>  
+
 *************
 
 <br/>
@@ -39,11 +46,6 @@ Site reliability engineer
 
 <br/>  
 
-<p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=yasharne&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"]/>
-</p>
-
-<br/>  
 
 *************  
 
